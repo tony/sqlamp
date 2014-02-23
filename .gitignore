@@ -1,0 +1,9 @@
+.env
+.env3
+*.pyc
+*.tar.gz
+*.egg-info
+
+doc/_build
+
+.tox
